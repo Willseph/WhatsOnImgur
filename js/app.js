@@ -1,6 +1,6 @@
 // Consts
 var CharPool = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
-var CreatorUrl = 'https://github.com/willseph';
+var CreatorUrl = 'https://github.com/willseph/whatsonimgur';
 var Host = 'https://whatsonimgur.com';
 var IsiOS = window.isiOS();
 var IsMobile = window.mobileAndTabletCheck();
