@@ -1,9 +1,0 @@
-Options -Indexes
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-
-RewriteCond %{HTTPS} off [NC]
-RewriteRule ^(.*)$ https://whatsonimgur.com%{REQUEST_URI} [L,R=301]
-
-</IfModule>
